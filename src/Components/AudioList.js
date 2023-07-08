@@ -75,7 +75,7 @@ function AudioList() {
                       <i>
                         <FaRegClock />
                       </i>
-                    03:04
+                    {song.duration}
                     </p>
                     <div
                       className="favourite"
